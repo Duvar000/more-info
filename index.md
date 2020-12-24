@@ -5,5 +5,6 @@ I’m currently working on Visual Studio Code and Trello <br>
 I’m currently learning SEO <br>
 How to reach me: <a class="black" href="mailto:ismail.arindi.000@gmail.com"> ismail.arindi.000@gmail.com</a> <br>
 ## my projects ;
+* [my youtube channel](http://duvarwebsite.herokuapp.com) ✔
 * [my website](http://duvarwebsite.herokuapp.com) ✔
 * [free stylesheet](https://stylesheetfree.herokuapp.com) ❌
